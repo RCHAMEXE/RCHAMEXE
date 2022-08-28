@@ -9,21 +9,7 @@
 
 <p align="left" class="twit"> <a href="https://twitter.com/3liix_7" target="blank"><i class="uil uil-twitter-alt"></i> @3liix_7</a>
 </p>
-<style>
-    .twit{
-        font-size: 1.5em;
-        font-family: monospace;
-        font-weight: 400;
-    }
-    .heading{
-        font-size: 1.5em;
-        color: aqua;
-    }
-    h3 {
-        font-family: monospace;
-    }
 
-</style>
 
 
 
