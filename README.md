@@ -84,7 +84,7 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg"
             alt="mysql" width="40" height="40" /> </a>
-            
+           
 </p>
 
 <h3 align="left">Support:</h3>
