@@ -13,7 +13,7 @@
 
 
 
-- <h3>I' web / app developper and security Researcher <i class="uil uil-desktop"></i></h3>
+- <h3>I'm web / app developper and security Researcher <i class="uil uil-desktop"></i></h3>
 
 - <h3>I'm Techno Electric Student <i class="uil uil-graduation-cap"></i></h3>
 
