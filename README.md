@@ -18,7 +18,7 @@
 - <h3>I'm Techno Electric Student <i class="uil uil-graduation-cap"></i></h3>
 
 - <h3>from morocco <img src="https://cdn.cdnlogo.com/logos/m/58/morocco.svg" width="30"></h3>
-- 👨‍💻 All of my projects are available at [http://rcham.netlify.app/](http://rcham.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://rcham.net/](http://rcham.netlify.app/)
 
 - Quote : Learn today to lead the future !
 
